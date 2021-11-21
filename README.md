@@ -2,7 +2,8 @@
 
 Shows lighting leds on a https://www.keithmcmillen.com/products/k-board/
 
-* (requires a java sdk)
-* clone
-* gradle build
-* gradle run
+* (win/mac/linux requires a java sdk)
+* > git clone
+* > gradlew build
+* > gradlew run
+* profit!
